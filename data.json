@@ -1,0 +1,10 @@
+{
+  "news1": {
+    "news_text": "Привет! Это первая новость.",
+    "image_url": "https://i.imgur.com/картинка1.png"
+  },
+  "news2": {
+    "news_text": "А это вторая новость.",
+    "image_url": "https://i.imgur.com/картинка2.png"
+  }
+}
