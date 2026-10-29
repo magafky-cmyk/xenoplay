@@ -1,10 +1,4 @@
 {
-  "news1": {
-    "news_text": "Это первая новость!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg"
-  },
-  "news2": {
-    "news_text": "Это вторая новость!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg"
-  }
+  "version": "1.1.0",
+  "url": "https://github.com/твой_аккаунт/твой_репозиторий/releases/download/v1.1.0/launcher.zip"
 }
